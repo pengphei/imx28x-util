@@ -1,0 +1,895 @@
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:04:00 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 3 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 4 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 4 
+error time: Fri May 31 20:33:28 1935
+ 
+ 
+success times: 0
+faile times:   4
+end time: Thu Jan  1 00:04:16 1970
+ 
+use time: 0-0 0:0:16 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:08:10 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Fri Mar 22 10:57:28 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Fri Mar 22 10:57:28 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 3 
+error time: Fri Mar 22 10:57:28 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Fri Mar 22 10:57:28 1935
+ 
+ 
+success times: 0
+faile times:   3
+end time: Thu Jan  1 00:08:34 1970
+ 
+use time: 0-0 0:0:26 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:10:50 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+success times: 0
+faile times:   1
+end time: Thu Jan  1 00:11:18 1970
+ 
+use time: 0-0 0:0:33 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:13:30 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Fri May 10 13:41:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Fri May 10 13:41:44 1935
+ 
+ 
+success times: 0
+faile times:   2
+end time: Thu Jan  1 00:14:05 1970
+ 
+use time: 0-0 0:0:36 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:14:40 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 3 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 4 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 4 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 5 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 5 
+error time: Wed May 29 12:48:24 1935
+ 
+ 
+success times: 0
+faile times:   5
+end time: Thu Jan  1 00:15:22 1970
+ 
+use time: 0-0 0:0:43 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:15:53 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 3 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 4 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 4 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 5 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 5 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 6 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 6 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 7 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 7 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 8 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 8 
+error time: Sun Jun  2 07:49:44 1935
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:17:21 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Wed Apr 10 22:35:04 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 2 
+error time: Wed Apr 10 22:35:04 1935
+ 
+ 
+success times: 0
+faile times:   2
+end time: Thu Jan  1 00:17:56 1970
+ 
+use time: 0-0 0:0:36 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:18:50 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+success times: 0
+faile times:   1
+end time: Thu Jan  1 00:19:22 1970
+ 
+use time: 0-0 0:0:33 
+
+---------------------------------------------
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:11:36 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 3 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 4 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 4 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 5 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 5 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 6 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 6 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 7 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 7 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 8 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 8 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 9 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 9 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 10 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 10 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 11 
+error time: Mon Apr  1 20:08:56 1935
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:11:59 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 2 
+error time: Sun Apr 28 01:20:24 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 2 
+error time: Sun Apr 28 01:20:24 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 3 
+error time: Sun Apr 28 01:20:24 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:12:56 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:13:22 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+
+
+********************************************* 
+
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:14:18 1970
+ 
+
+time out error, send port: 1  receive port: 4 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 4  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 4 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:15:23 1970
+ 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:15:40 1970
+ 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:17:44 1970
+ 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:18:25 1970
+ 
+
+time out error, send port: 5  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:18:58 1970
+ 
+
+time out error, send port: 5  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:19:56 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 3 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 4 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 4 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 5 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 5 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 6 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 6 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 7 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 7 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 8 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 8 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 9 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 9 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 10 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 10 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 11 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 11 
+error time: Thu May  2 21:23:52 1935
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:25:38 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 2 
+error time: Fri May 17 02:43:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 2 
+error time: Fri May 17 02:43:52 1935
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:49:13 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 2 
+error time: Mon Mar 18 00:01:44 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 2 
+error time: Mon Mar 18 00:01:44 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 3 
+error time: Mon Mar 18 00:01:44 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 3 
+error time: Mon Mar 18 00:01:44 1935
+ 
+ 
+
+********************************************* 
+
+start time: Thu Jan  1 00:51:02 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+
+
+********************************************* 
+
+start time: Thu Jan  1 00:51:56 1970
+ 
+
+time out error, send port: 1  receive port: 2 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 1 
+error time: Thu Jan  1 00:00:07 1970
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 2 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 2 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 3 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 3 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 4 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 4 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 5 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 5 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 6 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 6 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 7 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 7 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 8 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 8 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 9 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 9 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 1  receive port: 2 
+at times: 10 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+date test error, send port: 2  receive port: 1 
+at times: 10 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+time out error, send port: 1  receive port: 2 
+at times: 11 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 
+time out error, send port: 2  receive port: 1 
+at times: 11 
+error time: Sat Mar 30 11:15:52 1935
+ 
+ 

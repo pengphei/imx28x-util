@@ -1,0 +1,43 @@
+#
+# fb_test building script
+#
+
+Import('genv')
+
+env = Environment()
+env["CC"] = genv["CC"]
+env["CXX"] = genv["CXX"]
+env["AS"] = genv["AS"]
+env["AR"] = genv["AR"]
+env["LINK"] = genv["LINK"]
+env["OBJCOPY"] = genv["OBJCOPY"]
+env["NM"] = genv["NM"]
+env["ENV"] = genv["ENV"]
+
+env["LIBPATH"] = [
+    genv["out"],
+]
+
+env["CCFLAGS"] = [
+    "-O2",
+    "-g",
+]
+env["LINKFLAGS"] = [
+]
+
+dst = "test_lcd"
+
+inc = [
+    ".",
+]
+
+src = [
+    "lcd_test.c",
+]
+
+lib = [
+    "pthread",
+]
+
+prog = env.Program(target=dst, source=src, LIBS=lib, CPPPATH=inc)
+Return("prog")

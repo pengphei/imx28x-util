@@ -1,0 +1,5 @@
+# ignore temp build
+/build
+
+# scons temp
+.sconsign.dblite
